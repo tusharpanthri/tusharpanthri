@@ -61,10 +61,15 @@ Built ELT pipelines on the BlackRock Aladdin platform; **reduced processing late
 
 ### `05 / SIGNALS`
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tusharpanthri&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade9a&icon_color=4ade9a&text_color=adbac7&hide_title=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpanthri&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade9a&text_color=adbac7" alt="Top languages" />
-</p>
+```
+$ whoami --stack
+
+  languages   python · java · typescript · sql
+  data        spark · kafka · snowflake · dbt
+  cloud       aws (s3, glue, cloudwatch, sns)
+  backend     fastapi · spring boot · docker
+  streak      500+ day leetcode habit (rebuilding)
+```
 
 ---
 
