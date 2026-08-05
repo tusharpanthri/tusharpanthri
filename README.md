@@ -55,7 +55,6 @@ Built ELT pipelines on the BlackRock Aladdin platform; **reduced processing late
 | **[→ distributed-mind](https://github.com/tusharpanthri/distributed-mind)** &nbsp;`Python`<br/>Experiments in coordinating multiple LLM agents on shared task state. | **[→ personal-learning-os](https://github.com/tusharpanthri/personal-learning-os)** &nbsp;`Python`<br/>Knowledge-tracking system that adapts spaced-repetition scheduling based on recall patterns. |
 | **[→ model-watch](https://github.com/tusharpanthri/model-watch)** &nbsp;`Python`<br/>CLI for tracking and diffing ML model versions and metrics over time. | **[→ wolfiedex](https://github.com/tusharpanthri/wolfiedex)** &nbsp;`TypeScript · Next.js`<br/>Full-stack Pokédex rebuild — routing, data fetching, and UI from scratch. |
 
-*(Fill in real numbers where you have them — dataset size, throughput, latency, test coverage. Concrete beats clever.)*
 
 ---
 
