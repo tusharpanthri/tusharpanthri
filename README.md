@@ -1,6 +1,6 @@
 <h1 align="left">Tushar Panthri</h1>
 
-*Financial data by day. Distributed systems under failure by choice.*
+*There's no secret about success. Did you ever know a successful man who didn't tell you about it?*
 
 **New York, NY** · **Software / Data Engineer** · Open to relocation
 
