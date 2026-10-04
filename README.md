@@ -2,7 +2,7 @@
 
 *Financial data by day. Distributed systems under failure by choice.*
 
-**New York, NY** · **Software / Data Engineer** · Open to relocation & sponsorship
+**New York, NY** · **Software / Data Engineer** · Open to relocation
 
 ---
 
