@@ -47,3 +47,9 @@ Software engineer with 2+ years building Python, Spark, and AWS data services fo
 [LinkedIn](https://www.linkedin.com/in/tushar-panthri-963ab814a/) · [Medium](https://tusharpanthri.medium.com/) · [Portfolio](https://tusharpanthri.github.io/)
 
 <sub>Building backends, pipelines, and systems that can take a hit.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusharpanthri/tusharpanthri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusharpanthri/tusharpanthri/output/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/tusharpanthri/tusharpanthri/output/github-snake.svg" />
+</picture>
